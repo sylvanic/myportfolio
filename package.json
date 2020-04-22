@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Portfolio",
   "main": "index.js",
-  "homepage": "https://sylvanic.github.io/portfolio",
+  "homepage": "https://sylvanic.github.io/myportfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css --recursive",
     "deploy": "gh-pages -d dist"
